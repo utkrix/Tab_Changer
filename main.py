@@ -10,5 +10,5 @@ while True:
     if initial_mouse != final_mouse:
         pyautogui.hotkey("alt","tab")
     else:
-        exit
+       pass
 
